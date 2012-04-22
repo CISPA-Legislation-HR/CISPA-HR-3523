@@ -8,7 +8,7 @@ Background:
 
 We've recently had conversations with a couple of the house staffers that have been responsible for the CISPA legislation, and they've expressed big concerns that the bill will be sidelines or waylaid...
 
-foo.. bazz... bat...
+foo.. bazz... bat...  ( Need to insert a lot more details here.... )
 
 Purpose:
 --------
