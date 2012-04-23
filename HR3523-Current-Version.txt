@@ -100,37 +100,32 @@ SHARING.
         poses— 
             ‘‘(i) use cybersecurity systems to iden-
             tify and obtain cyber threat information to 
+            protect the rights and property of such 
+            self-protected entity; and 
+            ‘‘(ii) share such cyber threat informa-
+            tion with any other entity, including the 
+            Federal Government. 
+    ‘‘(2) SHARING WITH THE FEDERAL GOVERN-
+    MENT.— 
+        ‘‘(A) INFORMATION SHARED WITH THE
+        NATIONAL CYBERSECURITY AND COMMUNICA-
+        TIONS INTEGRATION CENTER OF THE DEPART-
+        MENT OF HOMELAND SECURITY.—Subject to 
+        the use and protection of information require-
+        ments under paragraph (3), the head of a de-
+        partment or agency of the Federal Government 
+        receiving cyber threat information in accordance 
+        with paragraph (1) shall provide such cyber 
+        threat information to the National Cybersecu-
+        rity and Communications Integration Center of 
+        the Department of Homeland Security. 
+        ‘‘(B) REQUEST TO SHARE WITH ANOTHER
+        DEPARTMENT OR AGENCY OF THE FEDERAL
+        GOVERNMENT.—An entity sharing cyber threat 
+        information that is provided to the National Cy-
+        bersecurity and Communications Integration 
 
-
-rDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00004 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           5 
-1 protect the rights and property of such 
-2 self-protected entity; and 
-3 ‘‘(ii) share such cyber threat informa-
-4 tion with any other entity, including the 
-5 Federal Government. 
-6 ‘‘(2) SHARING WITH THE FEDERAL GOVERN-
-7 MENT.— 
-8 ‘‘(A) INFORMATION SHARED WITH THE
-9 NATIONAL CYBERSECURITY AND COMMUNICA-
-10 TIONS INTEGRATION CENTER OF THE DEPART-
-11 MENT OF HOMELAND SECURITY.—Subject to 
-12 the use and protection of information require-
-13 ments under paragraph (3), the head of a de-
-14 partment or agency of the Federal Government 
-15 receiving cyber threat information in accordance 
-16 with paragraph (1) shall provide such cyber 
-17 threat information to the National Cybersecu-
-18 rity and Communications Integration Center of 
-19 the Department of Homeland Security. 
-20 ‘‘(B) REQUEST TO SHARE WITH ANOTHER
-21 DEPARTMENT OR AGENCY OF THE FEDERAL
-22 GOVERNMENT.—An entity sharing cyber threat 
-23 information that is provided to the National Cy-
-24 bersecurity and Communications Integration 
-25 Center of the Department of Homeland SecuVerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00005 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
+Center of the Department of Homeland SecuVerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00005 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
 April 19, 2012 (11:11 a.m.)
 L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
 L:\vr\041912\R041912.003.xml           6 
