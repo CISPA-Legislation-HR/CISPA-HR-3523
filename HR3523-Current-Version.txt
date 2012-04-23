@@ -124,150 +124,134 @@ SHARING.
         GOVERNMENT.—An entity sharing cyber threat 
         information that is provided to the National Cy-
         bersecurity and Communications Integration 
+        Center of the Department of Homeland Secu
+        rity under subparagraph (A) or paragraph (1) 
+        may request the head of such Center to, and 
+        the head of such Center may, provide such in-
+        formation to another department or agency of 
+        the Federal Government. 
+    ‘‘(3) USE AND PROTECTION OF INFORMA-
+    TION.—Cyber threat information shared in accord-
+    ance with paragraph (1)— 
+        ‘‘(A) shall only be shared in accordance 
+        with any restrictions placed on the sharing of 
+        such information by the protected entity or self- 
+        protected entity authorizing such sharing, in-
+        cluding appropriate anonymization or minimiza-
+        tion of such information; 
+        ‘‘(B) may not be used by an entity to gain 
+        an unfair competitive advantage to the det-
+        riment of the protected entity or the self-pro-
+        tected entity authorizing the sharing of infor-
+        mation; 
+        ‘‘(C) if shared with the Federal Govern-
+        ment— 
+            ‘‘(i) shall be exempt from disclosure 
+            under section 552 of title 5, United States 
+            Code; 
+            ‘‘(ii) shall be considered proprietary 
+            information and shall not be disclosed to 
+            an entity outside of the Federal Govern-
+            ment except as authorized by the entity 
+            sharing such information; 
+            ‘‘(iii) shall not be used by the Federal 
+            Government for regulatory purposes; 
+            ‘‘(iv) shall not be provided by the de-
+            partment or agency of the Federal Govern-
+            ment receiving such cyber threat informa-
+            tion to another department or agency of 
+            the Federal Government under paragraph 
+            (2)(A) if— 
+                ‘‘(I) the entity providing such in-
+                formation determines that the provi-
+                sion of such information will under-
+                mine the purpose for which such in-
+                formation is shared; or 
+                ‘‘(II) unless otherwise directed by 
+                the President, the head of the depart-
+                ment or agency of the Federal Gov-
+                ernment receiving such cyber threat 
+                information determines that the provi-
+                sion of such information will under
+                mine the purpose for which such in-
+                formation is shared; and 
+            ‘‘(v) shall be handled by the Federal 
+            Government consistent with the need to 
+            protect sources and methods and the na-
+            tional security of the United States; and 
+        ‘‘(D) shall be exempt from disclosure 
+        under a State, local, or tribal law or regulation 
+        that requires public disclosure of information by 
+        a public or quasi-public entity. 
+    ‘‘(4) EXEMPTION FROM LIABILITY.—No civil or 
+    criminal cause of action shall lie or be maintained in 
+    Federal or State court against a protected entity, 
+    self-protected entity, cybersecurity provider, or an 
+    officer, employee, or agent of a protected entity, self- 
+    protected entity, or cybersecurity provider, acting in 
+    good faith— 
+        ‘‘(A) for using cybersecurity systems or 
+        sharing information in accordance with this sec-
+        tion; or 
+        ‘‘(B) for decisions made based on cyber 
+        threat information identified, obtained, or 
+        shared under this section. 
+    ‘‘(5) RELATIONSHIP TO OTHER LAWS REQUIR-
+    ING THE DISCLOSURE OF INFORMATION.—The sub
+    mission of information under this subsection to the 
+    Federal Government shall not satisfy or affect any 
+    requirement under any other provision of law for a 
+    person or entity to provide information to the Fed-
+    eral Government. 
+ ‘‘(c) FEDERAL GOVERNMENT USE OF INFORMA-
+ TION.— 
+    ‘‘(1) LIMITATION.—The Federal Government 
+    may use cyber threat information shared with the 
+    Federal Government in accordance with subsection 
+    (b) for any lawful purpose only if— 
+        ‘‘(A) the use of such information is not for 
+        a regulatory purpose; and 
+        ‘‘(B) at least one significant purpose of the 
+        use of such information is— 
+            ‘‘(i) a cybersecurity purpose; or 
+            ‘‘(ii) the protection of the national se-
+            curity of the United States. 
+    ‘‘(2) AFFIRMATIVE SEARCH RESTRICTION.— 
+    The Federal Government may not affirmatively 
+    search cyber threat information shared with the 
+    Federal Government under subsection (b) for a pur-
+    pose other than a purpose referred to in paragraph 
+    (1)(B). 
+    ‘‘(3) ANTI-TASKING RESTRICTION.—Nothing in 
+    this section shall be construed to permit the Federal 
+    Government to— 
+        ‘‘(A) require a private-sector entity to 
+        share information with the Federal Govern-
+        ment; or 
+        ‘‘(B) condition the sharing of cyber threat 
+        intelligence with a private-sector entity on the 
+        provision of cyber threat information to the 
+        Federal Government. 
+ ‘‘(d) FEDERAL GOVERNMENT LIABILITY FOR VIOLA-
+ TIONS OF RESTRICTIONS ON THE DISCLOSURE, USE, AND
+ PROTECTION OF VOLUNTARILY SHARED INFORMATION.— 
+    ‘‘(1) IN GENERAL.—If a department or agency 
+    of the Federal Government intentionally or willfully 
+    violates subsection (b)(3)(C) or subsection (c) with 
+    respect to the disclosure, use, or protection of volun-
+    tarily shared cyber threat information shared under 
+    this section, the United States shall be liable to a 
+    person adversely affected by such violation in an 
+    amount equal to the sum of— 
+        ‘‘(A) the actual damages sustained by the 
+        person as a result of the violation or $1,000, 
+        whichever is greater; and 
 
-Center of the Department of Homeland SecuVerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00005 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           6 
-1 rity under subparagraph (A) or paragraph (1) 
-2 may request the head of such Center to, and 
-3 the head of such Center may, provide such in-
-4 formation to another department or agency of 
-5 the Federal Government. 
-6 ‘‘(3) USE AND PROTECTION OF INFORMA-
-7 TION.—Cyber threat information shared in accord-
-8 ance with paragraph (1)— 
-9 ‘‘(A) shall only be shared in accordance 
-10 with any restrictions placed on the sharing of 
-11 such information by the protected entity or self- 
-12 protected entity authorizing such sharing, in-
-13 cluding appropriate anonymization or minimiza-
-14 tion of such information; 
-15 ‘‘(B) may not be used by an entity to gain 
-16 an unfair competitive advantage to the det-
-17 riment of the protected entity or the self-pro-
-18 tected entity authorizing the sharing of infor-
-19 mation; 
-20 ‘‘(C) if shared with the Federal Govern-
-21 ment— 
-22 ‘‘(i) shall be exempt from disclosure 
-23 under section 552 of title 5, United States 
-24 Code; 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00006 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           7 
-1 ‘‘(ii) shall be considered proprietary 
-2 information and shall not be disclosed to 
-3 an entity outside of the Federal Govern-
-4 ment except as authorized by the entity 
-5 sharing such information; 
-6 ‘‘(iii) shall not be used by the Federal 
-7 Government for regulatory purposes; 
-8 ‘‘(iv) shall not be provided by the de-
-9 partment or agency of the Federal Govern-
-10 ment receiving such cyber threat informa-
-11 tion to another department or agency of 
-12 the Federal Government under paragraph 
-13 (2)(A) if— 
-14 ‘‘(I) the entity providing such in-
-15 formation determines that the provi-
-16 sion of such information will under-
-17 mine the purpose for which such in-
-18 formation is shared; or 
-19 ‘‘(II) unless otherwise directed by 
-20 the President, the head of the depart-
-21 ment or agency of the Federal Gov-
-22 ernment receiving such cyber threat 
-23 information determines that the provi-
-24 sion of such information will underVerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00007 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           8 
-1 mine the purpose for which such in-
-2 formation is shared; and 
-3 ‘‘(v) shall be handled by the Federal 
-4 Government consistent with the need to 
-5 protect sources and methods and the na-
-6 tional security of the United States; and 
-7 ‘‘(D) shall be exempt from disclosure 
-8 under a State, local, or tribal law or regulation 
-9 that requires public disclosure of information by 
-10 a public or quasi-public entity. 
-11 ‘‘(4) EXEMPTION FROM LIABILITY.—No civil or 
-12 criminal cause of action shall lie or be maintained in 
-13 Federal or State court against a protected entity, 
-14 self-protected entity, cybersecurity provider, or an 
-15 officer, employee, or agent of a protected entity, self- 
-16 protected entity, or cybersecurity provider, acting in 
-17 good faith— 
-18 ‘‘(A) for using cybersecurity systems or 
-19 sharing information in accordance with this sec-
-20 tion; or 
-21 ‘‘(B) for decisions made based on cyber 
-22 threat information identified, obtained, or 
-23 shared under this section. 
-24 ‘‘(5) RELATIONSHIP TO OTHER LAWS REQUIR-
-25 ING THE DISCLOSURE OF INFORMATION.—The subVerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00008 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           9 
-1 mission of information under this subsection to the 
-2 Federal Government shall not satisfy or affect any 
-3 requirement under any other provision of law for a 
-4 person or entity to provide information to the Fed-
-5 eral Government. 
-6 ‘‘(c) FEDERAL GOVERNMENT USE OF INFORMA-
-7 TION.— 
-8 ‘‘(1) LIMITATION.—The Federal Government 
-9 may use cyber threat information shared with the 
-10 Federal Government in accordance with subsection 
-11 (b) for any lawful purpose only if— 
-12 ‘‘(A) the use of such information is not for 
-13 a regulatory purpose; and 
-14 ‘‘(B) at least one significant purpose of the 
-15 use of such information is— 
-16 ‘‘(i) a cybersecurity purpose; or 
-17 ‘‘(ii) the protection of the national se-
-18 curity of the United States. 
-19 ‘‘(2) AFFIRMATIVE SEARCH RESTRICTION.— 
-20 The Federal Government may not affirmatively 
-21 search cyber threat information shared with the 
-22 Federal Government under subsection (b) for a pur-
-23 pose other than a purpose referred to in paragraph 
-24 (1)(B). 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00009 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           10 
-1 ‘‘(3) ANTI-TASKING RESTRICTION.—Nothing in 
-2 this section shall be construed to permit the Federal 
-3 Government to— 
-4 ‘‘(A) require a private-sector entity to 
-5 share information with the Federal Govern-
-6 ment; or 
-7 ‘‘(B) condition the sharing of cyber threat 
-8 intelligence with a private-sector entity on the 
-9 provision of cyber threat information to the 
-10 Federal Government. 
-11 ‘‘(d) FEDERAL GOVERNMENT LIABILITY FOR VIOLA-
-12 TIONS OF RESTRICTIONS ON THE DISCLOSURE, USE, AND
-13 PROTECTION OF VOLUNTARILY SHARED INFORMATION.— 
-14 ‘‘(1) IN GENERAL.—If a department or agency 
-15 of the Federal Government intentionally or willfully 
-16 violates subsection (b)(3)(C) or subsection (c) with 
-17 respect to the disclosure, use, or protection of volun-
-18 tarily shared cyber threat information shared under 
-19 this section, the United States shall be liable to a 
-20 person adversely affected by such violation in an 
-21 amount equal to the sum of— 
-22 ‘‘(A) the actual damages sustained by the 
-23 person as a result of the violation or $1,000, 
-24 whichever is greater; and 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00010 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
+erDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00010 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
 April 19, 2012 (11:11 a.m.)
 L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
 L:\vr\041912\R041912.003.xml           11 
+
 1 ‘‘(B) the costs of the action together with 
 2 reasonable attorney fees as determined by the 
 3 court. 
