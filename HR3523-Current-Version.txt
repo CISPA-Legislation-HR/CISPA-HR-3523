@@ -1,85 +1,82 @@
 APRIL 19, 2012 
+
 RULES COMMITTEE PRINT 112-20 
 TEXT OF H.R. 3523, THE CYBER INTELLIGENCE
 SHARING AND PROTECTION ACT
+
 [Showing the text of H.R. 3523 as reported with additional 
 changes recommended by the Chair and Ranking Minority 
 Member of the Permanent Select Committee on Intelligence] 
-1 SECTION 1. SHORT TITLE. 
-2 This Act may be cited as the ‘‘Cyber Intelligence 
-3 Sharing and Protection Act’’. 
-4 SEC. 2. CYBER THREAT INTELLIGENCE AND INFORMATION 
-5 SHARING. 
-6 (a) IN GENERAL.—Title XI of the National Security 
-7 Act of 1947 (50 U.S.C. 442 et seq.) is amended by adding 
-8 at the end the following new section: 
-9 ‘‘CYBER THREAT INTELLIGENCE AND INFORMATION
-10 SHARING
-11 ‘‘SEC. 1104. (a) INTELLIGENCE COMMUNITY SHAR-
-12 ING OF CYBER THREAT INTELLIGENCE WITH PRIVATE
-13 SECTOR AND UTILITIES.— 
-14 ‘‘(1) IN GENERAL.—The Director of National 
-15 Intelligence shall establish procedures to allow ele-
-16 ments of the intelligence community to share cyber 
-17 threat intelligence with private-sector entities and 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00001 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           2 
-1 utilities and to encourage the sharing of such intel-
-2 ligence. 
-3 ‘‘(2) SHARING AND USE OF CLASSIFIED INTEL-
-4 LIGENCE.—The procedures established under para-
-5 graph (1) shall provide that classified cyber threat 
-6 intelligence may only be— 
-7 ‘‘(A) shared by an element of the intel-
-8 ligence community with— 
-9 ‘‘(i) certified entities; or 
-10 ‘‘(ii) a person with an appropriate se-
-11 curity clearance to receive such cyber 
-12 threat intelligence; 
-13 ‘‘(B) shared consistent with the need to 
-14 protect the national security of the United 
-15 States; and 
-16 ‘‘(C) used by a certified entity in a manner 
-17 which protects such cyber threat intelligence 
-18 from unauthorized disclosure. 
-19 ‘‘(3) SECURITY CLEARANCE APPROVALS.—The 
-20 Director of National Intelligence shall issue guide-
-21 lines providing that the head of an element of the 
-22 intelligence community may, as the head of such ele-
-23 ment considers necessary to carry out this sub-
-24 section— 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00002 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           3 
-1 ‘‘(A) grant a security clearance on a tem-
-2 porary or permanent basis to an employee or 
-3 officer of a certified entity; 
-4 ‘‘(B) grant a security clearance on a tem-
-5 porary or permanent basis to a certified entity 
-6 and approval to use appropriate facilities; and 
-7 ‘‘(C) expedite the security clearance proc-
-8 ess for a person or entity as the head of such 
-9 element considers necessary, consistent with the 
-10 need to protect the national security of the 
-11 United States. 
-12 ‘‘(4) NO RIGHT OR BENEFIT.—The provision of 
-13 information to a private-sector entity or a utility 
-14 under this subsection shall not create a right or ben-
-15 efit to similar information by such entity or such 
-16 utility or any other private-sector entity or utility. 
-17 ‘‘(5) RESTRICTION ON DISCLOSURE OF CYBER
-18 THREAT INTELLIGENCE.—Notwithstanding any 
-19 other provision of law, a certified entity receiving 
-20 cyber threat intelligence pursuant to this subsection 
-21 shall not further disclose such cyber threat intel-
-22 ligence to another entity, other than to a certified 
-23 entity or other appropriate agency or department of 
-24 the Federal Government authorized to receive such 
-25 cyber threat intelligence. 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00003 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
+
+SECTION 1. SHORT TITLE. 
+
+This Act may be cited as the ‘‘Cyber Intelligence 
+Sharing and Protection Act’’. 
+
+SEC. 2. CYBER THREAT INTELLIGENCE AND INFORMATION 
+SHARING. 
+
+  (a) IN GENERAL.—Title XI of the National Security 
+  Act of 1947 (50 U.S.C. 442 et seq.) is amended by adding 
+  at the end the following new section: 
+  ‘‘CYBER THREAT INTELLIGENCE AND INFORMATION SHARING
+  ‘‘SEC. 1104. (a) INTELLIGENCE COMMUNITY SHAR-
+  ING OF CYBER THREAT INTELLIGENCE WITH PRIVATE
+  SECTOR AND UTILITIES.— 
+    ‘‘(1) IN GENERAL.—The Director of National 
+    Intelligence shall establish procedures to allow ele-
+    ments of the intelligence community to share cyber 
+    threat intelligence with private-sector entities and 
+    utilities and to encourage the sharing of such intel-
+    ligence. 
+    ‘‘(2) SHARING AND USE OF CLASSIFIED INTEL-
+    LIGENCE.—The procedures established under para-
+    graph (1) shall provide that classified cyber threat 
+    intelligence may only be— 
+        ‘‘(A) shared by an element of the intelligence community with— 
+            ‘‘(i) certified entities; or 
+            ‘‘(ii) a person with an appropriate se-
+            curity clearance to receive such cyber 
+            threat intelligence; 
+        ‘‘(B) shared consistent with the need to 
+        protect the national security of the United 
+        States; and 
+        ‘‘(C) used by a certified entity in a manner 
+        which protects such cyber threat intelligence 
+        from unauthorized disclosure. 
+    ‘‘(3) SECURITY CLEARANCE APPROVALS.—The 
+ Director of National Intelligence shall issue guide-
+ lines providing that the head of an element of the 
+ intelligence community may, as the head of such ele-
+ ment considers necessary to carry out this sub-
+ section— 
+    ‘‘(A) grant a security clearance on a tem-
+    porary or permanent basis to an employee or 
+    officer of a certified entity; 
+    ‘‘(B) grant a security clearance on a tem-
+    porary or permanent basis to a certified entity 
+    and approval to use appropriate facilities; and 
+    ‘‘(C) expedite the security clearance proc-
+    ess for a person or entity as the head of such 
+    element considers necessary, consistent with the 
+    need to protect the national security of the 
+    United States. 
+ ‘‘(4) NO RIGHT OR BENEFIT.—The provision of 
+ information to a private-sector entity or a utility 
+ under this subsection shall not create a right or ben-
+ efit to similar information by such entity or such 
+ utility or any other private-sector entity or utility. 
+ ‘‘(5) RESTRICTION ON DISCLOSURE OF CYBER
+ THREAT INTELLIGENCE.—Notwithstanding any 
+ other provision of law, a certified entity receiving 
+ cyber threat intelligence pursuant to this subsection 
+ shall not further disclose such cyber threat intel-
+ ligence to another entity, other than to a certified 
+ entity or other appropriate agency or department of 
+ the Federal Government authorized to receive such 
+ cyber threat intelligence. 
+
+rDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00003 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
 April 19, 2012 (11:11 a.m.)
 L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
 L:\vr\041912\R041912.003.xml           4 
