@@ -45,66 +45,64 @@ SHARING.
         which protects such cyber threat intelligence 
         from unauthorized disclosure. 
     ‘‘(3) SECURITY CLEARANCE APPROVALS.—The 
- Director of National Intelligence shall issue guide-
- lines providing that the head of an element of the 
- intelligence community may, as the head of such ele-
- ment considers necessary to carry out this sub-
- section— 
-    ‘‘(A) grant a security clearance on a tem-
-    porary or permanent basis to an employee or 
-    officer of a certified entity; 
-    ‘‘(B) grant a security clearance on a tem-
-    porary or permanent basis to a certified entity 
-    and approval to use appropriate facilities; and 
-    ‘‘(C) expedite the security clearance proc-
-    ess for a person or entity as the head of such 
-    element considers necessary, consistent with the 
-    need to protect the national security of the 
-    United States. 
- ‘‘(4) NO RIGHT OR BENEFIT.—The provision of 
- information to a private-sector entity or a utility 
- under this subsection shall not create a right or ben-
- efit to similar information by such entity or such 
- utility or any other private-sector entity or utility. 
- ‘‘(5) RESTRICTION ON DISCLOSURE OF CYBER
- THREAT INTELLIGENCE.—Notwithstanding any 
- other provision of law, a certified entity receiving 
- cyber threat intelligence pursuant to this subsection 
- shall not further disclose such cyber threat intel-
- ligence to another entity, other than to a certified 
- entity or other appropriate agency or department of 
- the Federal Government authorized to receive such 
- cyber threat intelligence. 
+    Director of National Intelligence shall issue guide-
+    lines providing that the head of an element of the 
+    intelligence community may, as the head of such ele-
+    ment considers necessary to carry out this sub-
+    section— 
+        ‘‘(A) grant a security clearance on a tem-
+        porary or permanent basis to an employee or 
+        officer of a certified entity; 
+        ‘‘(B) grant a security clearance on a tem-
+        porary or permanent basis to a certified entity 
+        and approval to use appropriate facilities; and 
+        ‘‘(C) expedite the security clearance proc-
+        ess for a person or entity as the head of such 
+        element considers necessary, consistent with the 
+        need to protect the national security of the 
+        United States. 
+    ‘‘(4) NO RIGHT OR BENEFIT.—The provision of 
+    information to a private-sector entity or a utility 
+    under this subsection shall not create a right or ben-
+    efit to similar information by such entity or such 
+    utility or any other private-sector entity or utility. 
+    ‘‘(5) RESTRICTION ON DISCLOSURE OF CYBER
+    THREAT INTELLIGENCE.—Notwithstanding any 
+    other provision of law, a certified entity receiving 
+    cyber threat intelligence pursuant to this subsection 
+    shall not further disclose such cyber threat intel-
+    ligence to another entity, other than to a certified 
+    entity or other appropriate agency or department of 
+    the Federal Government authorized to receive such 
+    cyber threat intelligence. 
 
-rDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00003 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           4 
-1 ‘‘(b) USE OF CYBERSECURITY SYSTEMS AND SHAR-
-2 ING OF CYBER THREAT INFORMATION.— 
-3 ‘‘(1) IN GENERAL.— 
-4 ‘‘(A) CYBERSECURITY PROVIDERS.—Not-
-5 withstanding any other provision of law, a cy-
-6 bersecurity provider, with the express consent 
-7 of a protected entity for which such cybersecu-
-8 rity provider is providing goods or services for 
-9 cybersecurity purposes, may, for cybersecurity 
-10 purposes— 
-11 ‘‘(i) use cybersecurity systems to iden-
-12 tify and obtain cyber threat information to 
-13 protect the rights and property of such 
-14 protected entity; and 
-15 ‘‘(ii) share such cyber threat informa-
-16 tion with any other entity designated by 
-17 such protected entity, including, if specifi-
-18 cally designated, the Federal Government. 
-19 ‘‘(B) SELF-PROTECTED ENTITIES.—Not-
-20 withstanding any other provision of law, a self- 
-21 protected entity may, for cybersecurity pur-
-22 poses— 
-23 ‘‘(i) use cybersecurity systems to iden-
-24 tify and obtain cyber threat information to 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00004 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
+  ‘‘(b) USE OF CYBERSECURITY SYSTEMS AND SHAR-
+  ING OF CYBER THREAT INFORMATION.— 
+    ‘‘(1) IN GENERAL.— 
+        ‘‘(A) CYBERSECURITY PROVIDERS.—Not-
+        withstanding any other provision of law, a cy-
+        bersecurity provider, with the express consent 
+        of a protected entity for which such cybersecu-
+        rity provider is providing goods or services for 
+        cybersecurity purposes, may, for cybersecurity 
+        purposes— 
+            ‘‘(i) use cybersecurity systems to iden-
+            tify and obtain cyber threat information to 
+            protect the rights and property of such 
+            protected entity; and 
+            ‘‘(ii) share such cyber threat informa-
+            tion with any other entity designated by 
+            such protected entity, including, if specifi-
+            cally designated, the Federal Government. 
+        ‘‘(B) SELF-PROTECTED ENTITIES.—Not-
+        withstanding any other provision of law, a self- 
+        protected entity may, for cybersecurity pur-
+        poses— 
+            ‘‘(i) use cybersecurity systems to iden-
+            tify and obtain cyber threat information to 
+
+
+rDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00004 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
 April 19, 2012 (11:11 a.m.)
 L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
 L:\vr\041912\R041912.003.xml           5 
