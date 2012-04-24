@@ -15,469 +15,430 @@ Sharing and Protection Act’’.
 
 SEC. 2. CYBER THREAT INTELLIGENCE AND INFORMATION 
 SHARING. 
-
-  (a) IN GENERAL.—Title XI of the National Security 
-  Act of 1947 (50 U.S.C. 442 et seq.) is amended by adding 
-  at the end the following new section: 
-  ‘‘CYBER THREAT INTELLIGENCE AND INFORMATION SHARING
-  ‘‘SEC. 1104. (a) INTELLIGENCE COMMUNITY SHAR-
-  ING OF CYBER THREAT INTELLIGENCE WITH PRIVATE
-  SECTOR AND UTILITIES.— 
-    ‘‘(1) IN GENERAL.—The Director of National 
-    Intelligence shall establish procedures to allow ele-
-    ments of the intelligence community to share cyber 
-    threat intelligence with private-sector entities and 
-    utilities and to encourage the sharing of such intel-
-    ligence. 
-    ‘‘(2) SHARING AND USE OF CLASSIFIED INTEL-
-    LIGENCE.—The procedures established under para-
-    graph (1) shall provide that classified cyber threat 
-    intelligence may only be— 
-        ‘‘(A) shared by an element of the intelligence community with— 
-            ‘‘(i) certified entities; or 
-            ‘‘(ii) a person with an appropriate se-
-            curity clearance to receive such cyber 
-            threat intelligence; 
-        ‘‘(B) shared consistent with the need to 
-        protect the national security of the United 
-        States; and 
-        ‘‘(C) used by a certified entity in a manner 
-        which protects such cyber threat intelligence 
-        from unauthorized disclosure. 
-    ‘‘(3) SECURITY CLEARANCE APPROVALS.—The 
-    Director of National Intelligence shall issue guide-
-    lines providing that the head of an element of the 
-    intelligence community may, as the head of such ele-
-    ment considers necessary to carry out this sub-
-    section— 
-        ‘‘(A) grant a security clearance on a tem-
-        porary or permanent basis to an employee or 
-        officer of a certified entity; 
-        ‘‘(B) grant a security clearance on a tem-
-        porary or permanent basis to a certified entity 
-        and approval to use appropriate facilities; and 
-        ‘‘(C) expedite the security clearance proc-
-        ess for a person or entity as the head of such 
-        element considers necessary, consistent with the 
-        need to protect the national security of the 
-        United States. 
-    ‘‘(4) NO RIGHT OR BENEFIT.—The provision of 
-    information to a private-sector entity or a utility 
-    under this subsection shall not create a right or ben-
-    efit to similar information by such entity or such 
-    utility or any other private-sector entity or utility. 
-    ‘‘(5) RESTRICTION ON DISCLOSURE OF CYBER
-    THREAT INTELLIGENCE.—Notwithstanding any 
-    other provision of law, a certified entity receiving 
-    cyber threat intelligence pursuant to this subsection 
-    shall not further disclose such cyber threat intel-
-    ligence to another entity, other than to a certified 
-    entity or other appropriate agency or department of 
-    the Federal Government authorized to receive such 
-    cyber threat intelligence. 
-
-  ‘‘(b) USE OF CYBERSECURITY SYSTEMS AND SHAR-
-  ING OF CYBER THREAT INFORMATION.— 
-    ‘‘(1) IN GENERAL.— 
-        ‘‘(A) CYBERSECURITY PROVIDERS.—Not-
-        withstanding any other provision of law, a cy-
-        bersecurity provider, with the express consent 
-        of a protected entity for which such cybersecu-
-        rity provider is providing goods or services for 
-        cybersecurity purposes, may, for cybersecurity 
-        purposes— 
-            ‘‘(i) use cybersecurity systems to iden-
-            tify and obtain cyber threat information to 
-            protect the rights and property of such 
-            protected entity; and 
-            ‘‘(ii) share such cyber threat informa-
-            tion with any other entity designated by 
-            such protected entity, including, if specifi-
-            cally designated, the Federal Government. 
-        ‘‘(B) SELF-PROTECTED ENTITIES.—Not-
-        withstanding any other provision of law, a self- 
-        protected entity may, for cybersecurity pur-
-        poses— 
-            ‘‘(i) use cybersecurity systems to iden-
-            tify and obtain cyber threat information to 
-            protect the rights and property of such 
-            self-protected entity; and 
-            ‘‘(ii) share such cyber threat informa-
-            tion with any other entity, including the 
-            Federal Government. 
-    ‘‘(2) SHARING WITH THE FEDERAL GOVERN-
-    MENT.— 
-        ‘‘(A) INFORMATION SHARED WITH THE
-        NATIONAL CYBERSECURITY AND COMMUNICA-
-        TIONS INTEGRATION CENTER OF THE DEPART-
-        MENT OF HOMELAND SECURITY.—Subject to 
-        the use and protection of information require-
-        ments under paragraph (3), the head of a de-
-        partment or agency of the Federal Government 
-        receiving cyber threat information in accordance 
-        with paragraph (1) shall provide such cyber 
-        threat information to the National Cybersecu-
-        rity and Communications Integration Center of 
-        the Department of Homeland Security. 
-        ‘‘(B) REQUEST TO SHARE WITH ANOTHER
-        DEPARTMENT OR AGENCY OF THE FEDERAL
-        GOVERNMENT.—An entity sharing cyber threat 
-        information that is provided to the National Cy-
-        bersecurity and Communications Integration 
-        Center of the Department of Homeland Secu
-        rity under subparagraph (A) or paragraph (1) 
-        may request the head of such Center to, and 
-        the head of such Center may, provide such in-
-        formation to another department or agency of 
-        the Federal Government. 
-    ‘‘(3) USE AND PROTECTION OF INFORMA-
-    TION.—Cyber threat information shared in accord-
-    ance with paragraph (1)— 
-        ‘‘(A) shall only be shared in accordance 
-        with any restrictions placed on the sharing of 
-        such information by the protected entity or self- 
-        protected entity authorizing such sharing, in-
-        cluding appropriate anonymization or minimiza-
-        tion of such information; 
-        ‘‘(B) may not be used by an entity to gain 
-        an unfair competitive advantage to the det-
-        riment of the protected entity or the self-pro-
-        tected entity authorizing the sharing of infor-
-        mation; 
-        ‘‘(C) if shared with the Federal Govern-
-        ment— 
-            ‘‘(i) shall be exempt from disclosure 
-            under section 552 of title 5, United States 
-            Code; 
-            ‘‘(ii) shall be considered proprietary 
-            information and shall not be disclosed to 
-            an entity outside of the Federal Govern-
-            ment except as authorized by the entity 
-            sharing such information; 
-            ‘‘(iii) shall not be used by the Federal 
-            Government for regulatory purposes; 
-            ‘‘(iv) shall not be provided by the de-
-            partment or agency of the Federal Govern-
-            ment receiving such cyber threat informa-
-            tion to another department or agency of 
-            the Federal Government under paragraph 
-            (2)(A) if— 
-                ‘‘(I) the entity providing such in-
-                formation determines that the provi-
-                sion of such information will under-
-                mine the purpose for which such in-
-                formation is shared; or 
-                ‘‘(II) unless otherwise directed by 
-                the President, the head of the depart-
-                ment or agency of the Federal Gov-
-                ernment receiving such cyber threat 
-                information determines that the provi-
-                sion of such information will under
-                mine the purpose for which such in-
-                formation is shared; and 
-            ‘‘(v) shall be handled by the Federal 
-            Government consistent with the need to 
-            protect sources and methods and the na-
-            tional security of the United States; and 
-        ‘‘(D) shall be exempt from disclosure 
-        under a State, local, or tribal law or regulation 
-        that requires public disclosure of information by 
-        a public or quasi-public entity. 
-    ‘‘(4) EXEMPTION FROM LIABILITY.—No civil or 
-    criminal cause of action shall lie or be maintained in 
-    Federal or State court against a protected entity, 
-    self-protected entity, cybersecurity provider, or an 
-    officer, employee, or agent of a protected entity, self- 
-    protected entity, or cybersecurity provider, acting in 
-    good faith— 
-        ‘‘(A) for using cybersecurity systems or 
-        sharing information in accordance with this sec-
-        tion; or 
-        ‘‘(B) for decisions made based on cyber 
-        threat information identified, obtained, or 
-        shared under this section. 
-    ‘‘(5) RELATIONSHIP TO OTHER LAWS REQUIR-
-    ING THE DISCLOSURE OF INFORMATION.—The sub
-    mission of information under this subsection to the 
-    Federal Government shall not satisfy or affect any 
-    requirement under any other provision of law for a 
-    person or entity to provide information to the Fed-
-    eral Government. 
- ‘‘(c) FEDERAL GOVERNMENT USE OF INFORMA-
- TION.— 
-    ‘‘(1) LIMITATION.—The Federal Government 
-    may use cyber threat information shared with the 
-    Federal Government in accordance with subsection 
-    (b) for any lawful purpose only if— 
-        ‘‘(A) the use of such information is not for 
-        a regulatory purpose; and 
-        ‘‘(B) at least one significant purpose of the 
-        use of such information is— 
-            ‘‘(i) a cybersecurity purpose; or 
-            ‘‘(ii) the protection of the national se-
-            curity of the United States. 
-    ‘‘(2) AFFIRMATIVE SEARCH RESTRICTION.— 
-    The Federal Government may not affirmatively 
-    search cyber threat information shared with the 
-    Federal Government under subsection (b) for a pur-
-    pose other than a purpose referred to in paragraph 
-    (1)(B). 
-    ‘‘(3) ANTI-TASKING RESTRICTION.—Nothing in 
-    this section shall be construed to permit the Federal 
-    Government to— 
-        ‘‘(A) require a private-sector entity to 
-        share information with the Federal Govern-
-        ment; or 
-        ‘‘(B) condition the sharing of cyber threat 
-        intelligence with a private-sector entity on the 
-        provision of cyber threat information to the 
-        Federal Government. 
- ‘‘(d) FEDERAL GOVERNMENT LIABILITY FOR VIOLA-
- TIONS OF RESTRICTIONS ON THE DISCLOSURE, USE, AND
- PROTECTION OF VOLUNTARILY SHARED INFORMATION.— 
-    ‘‘(1) IN GENERAL.—If a department or agency 
-    of the Federal Government intentionally or willfully 
-    violates subsection (b)(3)(C) or subsection (c) with 
-    respect to the disclosure, use, or protection of volun-
-    tarily shared cyber threat information shared under 
-    this section, the United States shall be liable to a 
-    person adversely affected by such violation in an 
-    amount equal to the sum of— 
-        ‘‘(A) the actual damages sustained by the 
-        person as a result of the violation or $1,000, 
-        whichever is greater; and 
-
-erDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00010 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           11 
-
-1 ‘‘(B) the costs of the action together with 
-2 reasonable attorney fees as determined by the 
-3 court. 
-4 ‘‘(2) VENUE.—An action to enforce liability cre-
-5 ated under this subsection may be brought in the 
-6 district court of the United States in— 
-7 ‘‘(A) the district in which the complainant 
-8 resides; 
-9 ‘‘(B) the district in which the principal 
-10 place of business of the complainant is located; 
-11 ‘‘(C) the district in which the department 
-12 or agency of the Federal Government that dis-
-13 closed the information is located; or 
-14 ‘‘(D) the District of Columbia. 
-15 ‘‘(3) STATUTE OF LIMITATIONS.—No action 
-16 shall lie under this subsection unless such action is 
-17 commenced not later than two years after the date 
-18 of the violation of subsection (b)(3)(C) or subsection 
-19 (c) that is the basis for the action. 
-20 ‘‘(4) EXCLUSIVE CAUSE OF ACTION.—A cause 
-21 of action under this subsection shall be the exclusive 
-22 means available to a complainant seeking a remedy 
-23 for a violation of subsection (b)(3)(C) or subsection 
-24 (c). 
-25 ‘‘(e) REPORT ON INFORMATION SHARING.— 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00011 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           12 
-1 ‘‘(1) REPORT.—The Inspector General of the 
-2 Intelligence Community shall annually submit to the 
-3 congressional intelligence committees a report con-
-4 taining a review of the use of information shared 
-5 with the Federal Government under this section, in-
-6 cluding— 
-7 ‘‘(A) a review of the use by the Federal 
-8 Government of such information for a purpose 
-9 other than a cybersecurity purpose; 
-10 ‘‘(B) a review of the type of information 
-11 shared with the Federal Government under this 
-12 section; 
-13 ‘‘(C) a review of the actions taken by the 
-14 Federal Government based on such information; 
-15 ‘‘(D) appropriate metrics to determine the 
-16 impact of the sharing of such information with 
-17 the Federal Government on privacy and civil 
-18 liberties, if any; 
-19 ‘‘(E) a review of the sharing of such infor-
-20 mation within the Federal Government to iden-
-21 tify inappropriate stovepiping of shared infor-
-22 mation; and 
-23 ‘‘(F) any recommendations of the Inspec-
-24 tor General for improvements or modifications 
-25 to the authorities under this section. 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00012 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           13 
-1 ‘‘(2) FORM.—Each report required under para-
-2 graph (1) shall be submitted in unclassified form, 
-3 but may include a classified annex. 
-4 ‘‘(f) FEDERAL PREEMPTION.—This section super-
-5 sedes any statute of a State or political subdivision of a 
-6 State that restricts or otherwise expressly regulates an ac-
-7 tivity authorized under subsection (b). 
-8 ‘‘(g) SAVINGS CLAUSES.— 
-9 ‘‘(1) EXISTING AUTHORITIES.—Nothing in this 
-10 section shall be construed to limit any other author-
-11 ity to use a cybersecurity system or to identify, ob-
-12 tain, or share cyber threat intelligence or cyber 
-13 threat information. 
-14 ‘‘(2) LIMITATION ON MILITARY AND INTEL-
-15 LIGENCE COMMUNITY INVOLVEMENT IN PRIVATE
-16 AND PUBLIC SECTOR CYBERSECURITY EFFORTS.— 
-17 Nothing in this section shall be construed to provide 
-18 additional authority to, or modify an existing au-
-19 thority of, the Department of Defense or the Na-
-20 tional Security Agency or any other element of the 
-21 intelligence community to control, modify, require, 
-22 or otherwise direct the cybersecurity efforts of a pri-
-23 vate-sector entity or a component of the Federal 
-24 Government or a State, local, or tribal government. 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00013 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           14 
-1 ‘‘(3) INFORMATION SHARING RELATIONSHIPS.— 
-2 Nothing in this section shall be construed to— 
-3 ‘‘(A) limit or modify an existing informa-
-4 tion sharing relationship; 
-5 ‘‘(B) prohibit a new information sharing 
-6 relationship; 
-7 ‘‘(C) require a new information sharing re-
-8 lationship between the Federal Government and 
-9 a private-sector entity; or 
-10 ‘‘(D) modify the authority of a department 
-11 or agency of the Federal Government to protect 
-12 sources and methods and the national security 
-13 of the United States. 
-14 ‘‘(h) DEFINITIONS.—In this section: 
-15 ‘‘(1) CERTIFIED ENTITY.—The term ‘certified 
-16 entity’ means a protected entity, self-protected enti-
-17 ty, or cybersecurity provider that— 
-18 ‘‘(A) possesses or is eligible to obtain a se-
-19 curity clearance, as determined by the Director 
-20 of National Intelligence; and 
-21 ‘‘(B) is able to demonstrate to the Director 
-22 of National Intelligence that such provider or 
-23 such entity can appropriately protect classified 
-24 cyber threat intelligence. 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00014 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           15 
-1 ‘‘(2) CYBER THREAT INFORMATION.—The term 
-2 ‘cyber threat information’ means information di-
-3 rectly pertaining to a vulnerability of, or threat to, 
-4 a system or network of a government or private enti-
-5 ty, including information pertaining to the protection 
-6 of a system or network from— 
-7 ‘‘(A) efforts to degrade, disrupt, or destroy 
-8 such system or network; or 
-9 ‘‘(B) efforts to gain unauthorized access to 
-10 a system or network, including efforts to gain 
-11 such unauthorized access to steal or misappro-
-12 priate private or government information. 
-13 ‘‘(3) CYBER THREAT INTELLIGENCE.—The 
-14 term ‘cyber threat intelligence’ means information in 
-15 the possession of an element of the intelligence com-
-16 munity directly pertaining to a vulnerability of, or 
-17 threat to, a system or network of a government or 
-18 private entity, including information pertaining to 
-19 the protection of a system or network from— 
-20 ‘‘(A) efforts to degrade, disrupt, or destroy 
-21 such system or network; or 
-22 ‘‘(B) efforts to gain unauthorized access to 
-23 a system or network, including efforts to gain 
-24 such unauthorized access to steal or misappro-
-25 priate private or government information. 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00015 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           16 
-1 ‘‘(4) CYBERSECURITY PROVIDER.—The term 
-2 ‘cybersecurity provider’ means a non-governmental 
-3 entity that provides goods or services intended to be 
-4 used for cybersecurity purposes. 
-5 ‘‘(5) CYBERSECURITY PURPOSE.—The term ‘cy-
-6 bersecurity purpose’ means the purpose of ensuring 
-7 the integrity, confidentiality, or availability of, or 
-8 safeguarding, a system or network, including pro-
-9 tecting a system or network from— 
-10 ‘‘(A) efforts to degrade, disrupt, or destroy 
-11 such system or network; or 
-12 ‘‘(B) efforts to gain unauthorized access to 
-13 a system or network, including efforts to gain 
-14 such unauthorized access to steal or misappro-
-15 priate private or government information. 
-16 ‘‘(6) CYBERSECURITY SYSTEM.—The term ‘cy-
-17 bersecurity system’ means a system designed or em-
-18 ployed to ensure the integrity, confidentiality, or 
-19 availability of, or safeguard, a system or network, 
-20 including protecting a system or network from— 
-21 ‘‘(A) efforts to degrade, disrupt, or destroy 
-22 such system or network; or 
-23 ‘‘(B) efforts to gain unauthorized access to 
-24 a system or network, including efforts to gain 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00016 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           17 
-1 such unauthorized access to steal or misappro-
-2 priate private or government information. 
-3 ‘‘(7) PROTECTED ENTITY.—The term ‘protected 
-4 entity’ means an entity, other than an individual, 
-5 that contracts with a cybersecurity provider for 
-6 goods or services to be used for cybersecurity pur-
-7 poses. 
-8 ‘‘(8) SELF-PROTECTED ENTITY.—The term 
-9 ‘self-protected entity’ means an entity, other than an 
-10 individual, that provides goods or services for cyber-
-11 security purposes to itself. 
-12 ‘‘(9) UTILITY.—The term ‘utility’ means an en-
-13 tity providing essential services (other than law en-
-14 forcement or regulatory services), including elec-
-15 tricity, natural gas, propane, telecommunications, 
-16 transportation, water, or wastewater services.’’. 
-17 (b) PROCEDURES AND GUIDELINES.—The Director 
-18 of National Intelligence shall— 
-19 (1) not later than 60 days after the date of the 
-20 enactment of this Act, establish procedures under 
-21 paragraph (1) of section 1104(a) of the National Se-
-22 curity Act of 1947, as added by subsection (a) of 
-23 this section, and issue guidelines under paragraph 
-24 (3) of such section 1104(a); 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00017 Fmt 6652 Sfmt 6201 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           18 
-1 (2) in establishing such procedures and issuing 
-2 such guidelines, consult with the Secretary of Home-
-3 land Security to ensure that such procedures and 
-4 such guidelines permit the owners and operators of 
-5 critical infrastructure to receive all appropriate cyber 
-6 threat intelligence (as defined in section 1104(h)(3) 
-7 of such Act, as added by subsection (a)) in the pos-
-8 session of the Federal Government; and 
-9 (3) following the establishment of such proce-
-10 dures and the issuance of such guidelines, expedi-
-11 tiously distribute such procedures and such guide-
-12 lines to appropriate departments and agencies of the 
-13 Federal Government, private-sector entities, and 
-14 utilities (as defined in section 1104(h)(9) of such 
-15 Act, as added by subsection (a)). 
-16 (c) INITIAL REPORT.—The first report required to be 
-17 submitted under subsection (e) of section 1104 of the Na-
-18 tional Security Act of 1947, as added by subsection (a) 
-19 of this section, shall be submitted not later than one year 
-20 after the date of the enactment of this Act. 
-21 (d) TABLE OF CONTENTS AMENDMENT.—The table 
-22 of contents in the first section of the National Security 
-23 Act of 1947 is amended by adding at the end the following 
-24 new item: 
-‘‘Sec. 1104. Cyber threat intelligence and information sharing.’’. 
-◊ 
-VerDate Nov 24 2008 11:11 Apr 19, 2012 Jkt 000000 PO 00000 Frm 00018 Fmt 6652 Sfmt 6301 C:\USERS\MCHINN\APPDATA\ROAMING\SOFTQUAD\XMETAL\5.5\GEN\C\CPRT-112-HPR
-April 19, 2012 (11:11 a.m.)
-L:\XML\CPRT-112-HPRT-RU00-HR3523.XML
-L:\vr\041912\R041912.003.xml           
+	
+	(a) IN GENERAL.—Title XI of the National Security 
+	Act of 1947 (50 U.S.C. 442 et seq.) is amended by adding 
+	at the end the following new section: 
+	‘‘CYBER THREAT INTELLIGENCE AND INFORMATION SHARING
+	‘‘SEC. 1104. (a) INTELLIGENCE COMMUNITY SHAR-
+	ING OF CYBER THREAT INTELLIGENCE WITH PRIVATE
+	SECTOR AND UTILITIES.— 
+	    ‘‘(1) IN GENERAL.—The Director of National 
+	    Intelligence shall establish procedures to allow ele-
+	    ments of the intelligence community to share cyber 
+	    threat intelligence with private-sector entities and 
+	    utilities and to encourage the sharing of such intel-
+	    ligence. 
+	    ‘‘(2) SHARING AND USE OF CLASSIFIED INTEL-
+	    LIGENCE.—The procedures established under para-
+	    graph (1) shall provide that classified cyber threat 
+	    intelligence may only be— 
+	        ‘‘(A) shared by an element of the intelligence community with— 
+	            ‘‘(i) certified entities; or 
+	            ‘‘(ii) a person with an appropriate se-
+	            curity clearance to receive such cyber 
+	            threat intelligence; 
+	        ‘‘(B) shared consistent with the need to 
+	        protect the national security of the United 
+	        States; and 
+	        ‘‘(C) used by a certified entity in a manner 
+	        which protects such cyber threat intelligence 
+	        from unauthorized disclosure. 
+	    ‘‘(3) SECURITY CLEARANCE APPROVALS.—The 
+	    Director of National Intelligence shall issue guide-
+	    lines providing that the head of an element of the 
+	    intelligence community may, as the head of such ele-
+	    ment considers necessary to carry out this sub-
+	    section— 
+	        ‘‘(A) grant a security clearance on a tem-
+	        porary or permanent basis to an employee or 
+	        officer of a certified entity; 
+	        ‘‘(B) grant a security clearance on a tem-
+	        porary or permanent basis to a certified entity 
+	        and approval to use appropriate facilities; and 
+	        ‘‘(C) expedite the security clearance proc-
+	        ess for a person or entity as the head of such 
+	        element considers necessary, consistent with the 
+	        need to protect the national security of the 
+	        United States. 
+	    ‘‘(4) NO RIGHT OR BENEFIT.—The provision of 
+	    information to a private-sector entity or a utility 
+	    under this subsection shall not create a right or ben-
+	    efit to similar information by such entity or such 
+	    utility or any other private-sector entity or utility. 
+	    ‘‘(5) RESTRICTION ON DISCLOSURE OF CYBER
+	    THREAT INTELLIGENCE.—Notwithstanding any 
+	    other provision of law, a certified entity receiving 
+	    cyber threat intelligence pursuant to this subsection 
+	    shall not further disclose such cyber threat intel-
+	    ligence to another entity, other than to a certified 
+	    entity or other appropriate agency or department of 
+	    the Federal Government authorized to receive such 
+	    cyber threat intelligence. 
+	
+	‘‘(b) USE OF CYBERSECURITY SYSTEMS AND SHAR-
+	ING OF CYBER THREAT INFORMATION.— 
+	    ‘‘(1) IN GENERAL.— 
+	        ‘‘(A) CYBERSECURITY PROVIDERS.—Not-
+	        withstanding any other provision of law, a cy-
+	        bersecurity provider, with the express consent 
+	        of a protected entity for which such cybersecu-
+	        rity provider is providing goods or services for 
+	        cybersecurity purposes, may, for cybersecurity 
+	        purposes— 
+	            ‘‘(i) use cybersecurity systems to iden-
+	            tify and obtain cyber threat information to 
+	            protect the rights and property of such 
+	            protected entity; and 
+	            ‘‘(ii) share such cyber threat informa-
+	            tion with any other entity designated by 
+	            such protected entity, including, if specifi-
+	            cally designated, the Federal Government. 
+	        ‘‘(B) SELF-PROTECTED ENTITIES.—Not-
+	        withstanding any other provision of law, a self- 
+	        protected entity may, for cybersecurity pur-
+	        poses— 
+	            ‘‘(i) use cybersecurity systems to iden-
+	            tify and obtain cyber threat information to 
+	            protect the rights and property of such 
+	            self-protected entity; and 
+	            ‘‘(ii) share such cyber threat informa-
+	            tion with any other entity, including the 
+	            Federal Government. 
+	    ‘‘(2) SHARING WITH THE FEDERAL GOVERN-
+	    MENT.— 
+	        ‘‘(A) INFORMATION SHARED WITH THE
+	        NATIONAL CYBERSECURITY AND COMMUNICA-
+	        TIONS INTEGRATION CENTER OF THE DEPART-
+	        MENT OF HOMELAND SECURITY.—Subject to 
+	        the use and protection of information require-
+	        ments under paragraph (3), the head of a de-
+	        partment or agency of the Federal Government 
+	        receiving cyber threat information in accordance 
+	        with paragraph (1) shall provide such cyber 
+	        threat information to the National Cybersecu-
+	        rity and Communications Integration Center of 
+	        the Department of Homeland Security. 
+	        ‘‘(B) REQUEST TO SHARE WITH ANOTHER
+	        DEPARTMENT OR AGENCY OF THE FEDERAL
+	        GOVERNMENT.—An entity sharing cyber threat 
+	        information that is provided to the National Cy-
+	        bersecurity and Communications Integration 
+	        Center of the Department of Homeland Secu
+	        rity under subparagraph (A) or paragraph (1) 
+	        may request the head of such Center to, and 
+	        the head of such Center may, provide such in-
+	        formation to another department or agency of 
+	        the Federal Government. 
+	    ‘‘(3) USE AND PROTECTION OF INFORMA-
+	    TION.—Cyber threat information shared in accord-
+	    ance with paragraph (1)— 
+	        ‘‘(A) shall only be shared in accordance 
+	        with any restrictions placed on the sharing of 
+	        such information by the protected entity or self- 
+	        protected entity authorizing such sharing, in-
+	        cluding appropriate anonymization or minimiza-
+	        tion of such information; 
+	        ‘‘(B) may not be used by an entity to gain 
+	        an unfair competitive advantage to the det-
+	        riment of the protected entity or the self-pro-
+	        tected entity authorizing the sharing of infor-
+	        mation; 
+	        ‘‘(C) if shared with the Federal Govern-
+	        ment— 
+	            ‘‘(i) shall be exempt from disclosure 
+	            under section 552 of title 5, United States 
+	            Code; 
+	            ‘‘(ii) shall be considered proprietary 
+	            information and shall not be disclosed to 
+	            an entity outside of the Federal Govern-
+	            ment except as authorized by the entity 
+	            sharing such information; 
+	            ‘‘(iii) shall not be used by the Federal 
+	            Government for regulatory purposes; 
+	            ‘‘(iv) shall not be provided by the de-
+	            partment or agency of the Federal Govern-
+	            ment receiving such cyber threat informa-
+	            tion to another department or agency of 
+	            the Federal Government under paragraph 
+	            (2)(A) if— 
+	                ‘‘(I) the entity providing such in-
+	                formation determines that the provi-
+	                sion of such information will under-
+	                mine the purpose for which such in-
+	                formation is shared; or 
+	                ‘‘(II) unless otherwise directed by 
+	                the President, the head of the depart-
+	                ment or agency of the Federal Gov-
+	                ernment receiving such cyber threat 
+	                information determines that the provi-
+	                sion of such information will under
+	                mine the purpose for which such in-
+	                formation is shared; and 
+	            ‘‘(v) shall be handled by the Federal 
+	            Government consistent with the need to 
+	            protect sources and methods and the na-
+	            tional security of the United States; and 
+	        ‘‘(D) shall be exempt from disclosure 
+	        under a State, local, or tribal law or regulation 
+	        that requires public disclosure of information by 
+	        a public or quasi-public entity. 
+	    ‘‘(4) EXEMPTION FROM LIABILITY.—No civil or 
+	    criminal cause of action shall lie or be maintained in 
+	    Federal or State court against a protected entity, 
+	    self-protected entity, cybersecurity provider, or an 
+	    officer, employee, or agent of a protected entity, self- 
+	    protected entity, or cybersecurity provider, acting in 
+	    good faith— 
+	        ‘‘(A) for using cybersecurity systems or 
+	        sharing information in accordance with this sec-
+	        tion; or 
+	        ‘‘(B) for decisions made based on cyber 
+	        threat information identified, obtained, or 
+	        shared under this section. 
+	    ‘‘(5) RELATIONSHIP TO OTHER LAWS REQUIR-
+	    ING THE DISCLOSURE OF INFORMATION.—The sub
+	    mission of information under this subsection to the 
+	    Federal Government shall not satisfy or affect any 
+	    requirement under any other provision of law for a 
+	    person or entity to provide information to the Fed-
+	    eral Government. 
+	‘‘(c) FEDERAL GOVERNMENT USE OF INFORMA-
+	TION.— 
+	    ‘‘(1) LIMITATION.—The Federal Government 
+	    may use cyber threat information shared with the 
+	    Federal Government in accordance with subsection 
+	    (b) for any lawful purpose only if— 
+	        ‘‘(A) the use of such information is not for 
+	        a regulatory purpose; and 
+	        ‘‘(B) at least one significant purpose of the 
+	        use of such information is— 
+	            ‘‘(i) a cybersecurity purpose; or 
+	            ‘‘(ii) the protection of the national se-
+	            curity of the United States. 
+	    ‘‘(2) AFFIRMATIVE SEARCH RESTRICTION.— 
+	    The Federal Government may not affirmatively 
+	    search cyber threat information shared with the 
+	    Federal Government under subsection (b) for a pur-
+	    pose other than a purpose referred to in paragraph 
+	    (1)(B). 
+	    ‘‘(3) ANTI-TASKING RESTRICTION.—Nothing in 
+	    this section shall be construed to permit the Federal 
+	    Government to— 
+	        ‘‘(A) require a private-sector entity to 
+	        share information with the Federal Govern-
+	        ment; or 
+	        ‘‘(B) condition the sharing of cyber threat 
+	        intelligence with a private-sector entity on the 
+	        provision of cyber threat information to the 
+	        Federal Government. 
+	‘‘(d) FEDERAL GOVERNMENT LIABILITY FOR VIOLA-
+	TIONS OF RESTRICTIONS ON THE DISCLOSURE, USE, AND
+	PROTECTION OF VOLUNTARILY SHARED INFORMATION.— 
+	    ‘‘(1) IN GENERAL.—If a department or agency 
+	    of the Federal Government intentionally or willfully 
+	    violates subsection (b)(3)(C) or subsection (c) with 
+	    respect to the disclosure, use, or protection of volun-
+	    tarily shared cyber threat information shared under 
+	    this section, the United States shall be liable to a 
+	    person adversely affected by such violation in an 
+	    amount equal to the sum of— 
+	        ‘‘(A) the actual damages sustained by the 
+	        person as a result of the violation or $1,000, 
+	        whichever is greater; and 
+			‘‘(B) the costs of the action together with 
+			reasonable attorney fees as determined by the 
+			court. 
+	 	‘‘(2) VENUE.—An action to enforce liability cre-
+	 	ated under this subsection may be brought in the 
+	 	district court of the United States in— 
+	 		‘‘(A) the district in which the complainant 
+	 		resides; 
+	 		‘‘(B) the district in which the principal 
+	 		place of business of the complainant is located; 
+	 		‘‘(C) the district in which the department 
+	 		or agency of the Federal Government that dis-
+	 		closed the information is located; or 
+	 		‘‘(D) the District of Columbia. 
+	 	‘‘(3) STATUTE OF LIMITATIONS.—No action 
+	 	shall lie under this subsection unless such action is 
+	 	commenced not later than two years after the date 
+	 	of the violation of subsection (b)(3)(C) or subsection 
+	 	(c) that is the basis for the action. 
+	 	‘‘(4) EXCLUSIVE CAUSE OF ACTION.—A cause 
+	 	of action under this subsection shall be the exclusive 
+	 	means available to a complainant seeking a remedy 
+	 	for a violation of subsection (b)(3)(C) or subsection 
+	 	(c). 
+	‘‘(e) REPORT ON INFORMATION SHARING.— 
+		‘‘(1) REPORT.—The Inspector General of the 
+		Intelligence Community shall annually submit to the 
+		congressional intelligence committees a report con-
+		taining a review of the use of information shared 
+		with the Federal Government under this section, in-
+		cluding— 
+			‘‘(A) a review of the use by the Federal 
+			Government of such information for a purpose 
+			other than a cybersecurity purpose; 
+			‘‘(B) a review of the type of information 
+			shared with the Federal Government under this 
+			section; 
+			‘‘(C) a review of the actions taken by the 
+			Federal Government based on such information; 
+			‘‘(D) appropriate metrics to determine the 
+			impact of the sharing of such information with 
+			the Federal Government on privacy and civil 
+			liberties, if any; 
+			‘‘(E) a review of the sharing of such infor-
+			mation within the Federal Government to iden-
+			tify inappropriate stovepiping of shared infor-
+			mation; and 
+			‘‘(F) any recommendations of the Inspec-
+			tor General for improvements or modifications 
+			to the authorities under this section. 
+		‘‘(2) FORM.—Each report required under para-
+		graph (1) shall be submitted in unclassified form, 
+		but may include a classified annex. 
+	‘‘(f) FEDERAL PREEMPTION.—This section super-
+	sedes any statute of a State or political subdivision of a 
+	State that restricts or otherwise expressly regulates an ac-
+	tivity authorized under subsection (b). 
+	‘‘(g) SAVINGS CLAUSES.— 
+		‘‘(1) EXISTING AUTHORITIES.—Nothing in this 
+		section shall be construed to limit any other author-
+		ity to use a cybersecurity system or to identify, ob-
+		tain, or share cyber threat intelligence or cyber 
+		threat information. 
+		‘‘(2) LIMITATION ON MILITARY AND INTEL-
+		LIGENCE COMMUNITY INVOLVEMENT IN PRIVATE
+		AND PUBLIC SECTOR CYBERSECURITY EFFORTS.— 
+		Nothing in this section shall be construed to provide 
+		additional authority to, or modify an existing au-
+		thority of, the Department of Defense or the Na-
+		tional Security Agency or any other element of the 
+		intelligence community to control, modify, require, 
+		or otherwise direct the cybersecurity efforts of a pri-
+		vate-sector entity or a component of the Federal 
+		Government or a State, local, or tribal government. 
+		‘‘(3) INFORMATION SHARING RELATIONSHIPS.— 
+		Nothing in this section shall be construed to— 
+			‘‘(A) limit or modify an existing informa-
+			tion sharing relationship; 
+			‘‘(B) prohibit a new information sharing 
+			relationship; 
+			‘‘(C) require a new information sharing re-
+			lationship between the Federal Government and 
+			a private-sector entity; or 
+			‘‘(D) modify the authority of a department 
+			or agency of the Federal Government to protect 
+			sources and methods and the national security 
+			of the United States. 
+	‘‘(h) DEFINITIONS.—In this section: 
+		‘‘(1) CERTIFIED ENTITY.—The term ‘certified 
+		entity’ means a protected entity, self-protected enti-
+		ty, or cybersecurity provider that— 
+			‘‘(A) possesses or is eligible to obtain a se-
+			curity clearance, as determined by the Director 
+			of National Intelligence; and 
+			‘‘(B) is able to demonstrate to the Director 
+			of National Intelligence that such provider or 
+			such entity can appropriately protect classified 
+			cyber threat intelligence. 
+		‘‘(2) CYBER THREAT INFORMATION.—The term 
+		‘cyber threat information’ means information di-
+		rectly pertaining to a vulnerability of, or threat to, 
+		a system or network of a government or private enti-
+		ty, including information pertaining to the protection 
+		of a system or network from— 
+			‘‘(A) efforts to degrade, disrupt, or destroy 
+			such system or network; or 
+			‘‘(B) efforts to gain unauthorized access to 
+			a system or network, including efforts to gain 
+			such unauthorized access to steal or misappro-
+			priate private or government information. 
+		‘‘(3) CYBER THREAT INTELLIGENCE.—The 
+		term ‘cyber threat intelligence’ means information in 
+		the possession of an element of the intelligence com-
+		munity directly pertaining to a vulnerability of, or 
+		threat to, a system or network of a government or 
+		private entity, including information pertaining to 
+		the protection of a system or network from— 
+			‘‘(A) efforts to degrade, disrupt, or destroy 
+			such system or network; or 
+			‘‘(B) efforts to gain unauthorized access to 
+			a system or network, including efforts to gain 
+			such unauthorized access to steal or misappro-
+			priate private or government information. 
+		‘‘(4) CYBERSECURITY PROVIDER.—The term 
+		‘cybersecurity provider’ means a non-governmental 
+		entity that provides goods or services intended to be 
+		used for cybersecurity purposes. 
+		‘‘(5) CYBERSECURITY PURPOSE.—The term ‘cy-
+		bersecurity purpose’ means the purpose of ensuring 
+		the integrity, confidentiality, or availability of, or 
+		safeguarding, a system or network, including pro-
+		tecting a system or network from— 
+			‘‘(A) efforts to degrade, disrupt, or destroy 
+			such system or network; or 
+			‘‘(B) efforts to gain unauthorized access to 
+			a system or network, including efforts to gain 
+			such unauthorized access to steal or misappro-
+			priate private or government information. 
+		‘‘(6) CYBERSECURITY SYSTEM.—The term ‘cy-
+		bersecurity system’ means a system designed or em-
+		ployed to ensure the integrity, confidentiality, or 
+		availability of, or safeguard, a system or network, 
+		including protecting a system or network from— 
+			‘‘(A) efforts to degrade, disrupt, or destroy 
+			such system or network; or 
+			‘‘(B) efforts to gain unauthorized access to 
+			a system or network, including efforts to gain 
+			such unauthorized access to steal or misappro-
+			priate private or government information. 
+		‘‘(7) PROTECTED ENTITY.—The term ‘protected 
+		entity’ means an entity, other than an individual, 
+		that contracts with a cybersecurity provider for 
+		goods or services to be used for cybersecurity pur-
+		poses. 
+		‘‘(8) SELF-PROTECTED ENTITY.—The term 
+		‘self-protected entity’ means an entity, other than an 
+		individual, that provides goods or services for cyber-
+		security purposes to itself. 
+		‘‘(9) UTILITY.—The term ‘utility’ means an en-
+		tity providing essential services (other than law en-
+		forcement or regulatory services), including elec-
+		tricity, natural gas, propane, telecommunications, 
+		transportation, water, or wastewater services.’’. 
+(b) PROCEDURES AND GUIDELINES.—The Director 
+of National Intelligence shall— 
+	(1) not later than 60 days after the date of the 
+	enactment of this Act, establish procedures under 
+	paragraph (1) of section 1104(a) of the National Se-
+	curity Act of 1947, as added by subsection (a) of 
+	this section, and issue guidelines under paragraph
+	(3) of such section 1104(a);
+	(2) in establishing such procedures and issuing 
+	such guidelines, consult with the Secretary of Home-
+	land Security to ensure that such procedures and 
+	such guidelines permit the owners and operators of 
+	critical infrastructure to receive all appropriate cyber 
+	threat intelligence (as defined in section 1104(h)(3) 
+	of such Act, as added by subsection (a)) in the pos-
+	session of the Federal Government; and 
+	(3) following the establishment of such proce-
+	dures and the issuance of such guidelines, expedi-
+	tiously distribute such procedures and such guide-
+	lines to appropriate departments and agencies of the 
+	Federal Government, private-sector entities, and 
+	utilities (as defined in section 1104(h)(9) of such 
+	Act, as added by subsection (a)). 
+(c) INITIAL REPORT.—The first report required to be 
+submitted under subsection (e) of section 1104 of the Na-
+tional Security Act of 1947, as added by subsection (a) 
+of this section, shall be submitted not later than one year 
+after the date of the enactment of this Act. 
+(d) TABLE OF CONTENTS AMENDMENT.—The table 
+of contents in the first section of the National Security 
+Act of 1947 is amended by adding at the end the following 
+new item: 
+‘‘Sec. 1104. Cyber threat intelligence and information sharing.’’.
