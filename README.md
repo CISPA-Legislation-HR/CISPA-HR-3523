@@ -37,19 +37,15 @@ And, the staffers that are writing the bill, have promised to look at the commen
 Attached:
 ---------
 
-PDF of the current version:
+[PDF of the current version] ( http://www.rules.house.gov/Media/file/PDF_112_2/LegislativeText/CPRT-112-HPRT-RU00-HR3523.pdf )
 
-http://www.rules.house.gov/Media/file/PDF_112_2/LegislativeText/CPRT-112-HPRT-RU00-HR3523.pdf
+[PDF Report on the previous version]: (http://intelligence.house.gov/sites/intelligence.house.gov/files/documents/HR3523CommitteeReport.pdf)
 
-PDF Report on the previous version is here:
+From the staffers, Jamil Jaffers and Tom Corcoran:
 
-http://intelligence.house.gov/sites/intelligence.house.gov/files/documents/HR3523CommitteeReport.pdf
+	We'd really appreciate getting feedback from the community on the bill and we are currently still discussing these issues with groups like CDT also and may make some changes.
 
-From the staffers:
-"""
-We'd really appreciate getting feedback from the community on the bill and we are currently still discussing these issues with groups like CDT also and may make some changes.
+	In addition, no matter what happens this week in the House, we are far from the end of this process and we hope to keep working with you and the community to get this right.
 
-In addition, no matter what happens this week in the House, we are far from the end of this process and we hope to keep working with you and the community to get this right.
-"""
 
 
