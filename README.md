@@ -43,9 +43,13 @@ Attached:
 
 From the staffers, Jamil Jaffers and Tom Corcoran:
 
-	We'd really appreciate getting feedback from the community on the bill and we are currently still discussing these issues with groups like CDT also and may make some changes.
+	We'd really appreciate getting feedback from the community on the 
+	bill and we are currently still discussing these issues with groups 
+	like CDT also and may make some changes.
 
-	In addition, no matter what happens this week in the House, we are far from the end of this process and we hope to keep working with you and the community to get this right.
+	In addition, no matter what happens this week in the House, we are 
+	far from the end of this process and we hope to keep working with 
+	you and the community to get this right.
 
 
 
